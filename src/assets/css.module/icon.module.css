@@ -1,0 +1,53 @@
+.svg {
+  width: 30px;
+  height: 30px;
+  fill: #c11111;
+}
+
+.card {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__active {
+  background-color: #c11111;
+}
+
+.icon__active {
+  color: white !important;
+}
+
+.icon__style {
+  fill: #c11111;
+  width: 30px;
+  height: 30px;
+}
+
+.icon__style__contact {
+  fill: #fff;
+  width: 24px;
+  height: 24px;
+}
+
+.cart__icon {
+  fill: white;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.icon__close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.notification__style {
+  fill: red !important;
+  width: 40px;
+}

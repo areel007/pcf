@@ -1,0 +1,14 @@
+.custom_phone_input {
+  /* Add your custom styles for the input */
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.custom-phone-input::placeholder {
+  /* Customize the placeholder style */
+  color: #888;
+}

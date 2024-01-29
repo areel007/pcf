@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+  .reverse {
+    grid-row: 2/3;
+  }
+}

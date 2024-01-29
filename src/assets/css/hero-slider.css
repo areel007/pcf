@@ -1,0 +1,14 @@
+/* hero-slider.css */
+.slick-slider {
+  position: relative;
+}
+
+.slick-slider .slick-slide {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.slick-slider .slick-slide.slick-active {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
